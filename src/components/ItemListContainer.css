@@ -1,0 +1,16 @@
+.containerBienvenida{
+    background-color: rgba(206, 93, 93, 0.664);
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    place-content: center;
+
+}
+.txtBienvenida{
+   
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    background-color: bisque;
+}
